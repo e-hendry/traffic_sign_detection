@@ -1,215 +1,172 @@
 item { 
-  name: '1'
   id: 1
-  display_name: 'speed limit 20 (prohibitory)'
+  name: '1'
 }
 item { 
-  name: '2'
   id: 2
-  display_name: 'speed limit 30 (prohibitory)'
+  name: '2'
 }
 item { 
-  name: '3'
   id: 3
-  display_name: 'speed limit 50 (prohibitory)'
+  name: '3'
 }
 item { 
-  name: '4'
   id: 4
-  display_name: 'speed limit 60 (prohibitory)'
+  name: '4'
 }
 item { 
-  name: '5'
   id: 5
-  display_name: 'speed limit 70 (prohibitory)'
+  name: '5'
 }
 item { 
-  name: '6'
   id: 6
-  display_name: 'speed limit 80 (prohibitory)'
+  name: '6'
 }
 item { 
-  name: '7'
   id: 7
-  display_name: 'restriction ends 80 (other)'
+  name: '7'
 }
 item { 
-  name: '8'
   id: 8
-  display_name: 'speed limit 100 (prohibitory)'
+  name: '8'
 }
 item { 
-  name: '9'
   id: 9
-  display_name: 'speed limit 120 (prohibitory)'
+  name: '9'
 }
 item { 
-  name: '10'
   id: 10
-  display_name: 'no overtaking (prohibitory)'
+  name: '10'
 }
 item { 
-  name: '11'
   id: 11
-  display_name: 'no overtaking (trucks) (prohibitory)'
+  name: '11'
 }
 item { 
-  name: '12'
   id: 12
-  display_name: 'priority at next intersection (danger)'
+  name: '12'
 }
 item { 
-  name: '13'
   id: 13
-  display_name: 'priority road (other)'
+  name: '13'
 }
 item { 
-  name: '14'
   id: 14
-  display_name: 'give way (other)'
+  name: '14'
 }
 item { 
-  name: '15'
   id: 15
-  display_name: 'stop (other)'
+  name: '15'
 }
 item { 
-  name: '16'
   id: 16
-  display_name: 'no traffic both ways (prohibitory)'
+  name: '16'
 }
 item { 
-  name: '17'
   id: 17
-  display_name: 'no trucks (prohibitory)'
+  name: '17'
 }
 item { 
-  name: '18'
   id: 18
-  display_name: 'no entry (other)'
+  name: '18'
 }
 item { 
-  name: '19'
   id: 19
-  display_name: 'danger (danger)'
+  name: '19'
 }
 item { 
-  name: '20'
   id: 20
-  display_name: 'bend left (danger)'
+  name: '20'
 }
 item { 
-  name: '21'
   id: 21
-  display_name: 'bend right (danger)'
+  name: '21'
 }
 item { 
-  name: '22'
   id: 22
-  display_name: 'bend (danger)'
+  name: '22'
 }
 item { 
-  name: '23'
   id: 23
-  display_name: 'uneven road (danger)'
+  name: '23'
 }
 item { 
-  name: '24'
   id: 24
-  display_name: 'slippery road (danger)'
+  name: '24'
 }
 item { 
-  name: '25'
   id: 25
-  display_name: 'road narrows (danger)'
+  name: '25'
 }
 item { 
-  name: '26'
   id: 26
-  display_name: 'construction (danger)'
+  name: '26'
 }
 item { 
-  name: '27'
   id: 27
-  display_name: 'traffic signal (danger)'
+  name: '27'
 }
 item { 
-  name: '28'
   id: 28
-  display_name: 'pedestrian crossing (danger)'
+  name: '28'
 }
 item { 
-  name: '29'
   id: 29
-  display_name: 'school crossing (danger)'
+  name: '29'
 }
 item { 
-  name: '30'
   id: 30
-  display_name: 'cycles crossing (danger)'
+  name: '30'
 }
 item { 
-  name: '31'
   id: 31
-  display_name: 'snow (danger)'
+  name: '31'
 }
 item { 
-  name: '32'
   id: 32
-  display_name: 'animals (danger)'
+  name: '32'
 }
 item { 
-  name: '33'
   id: 33
-  display_name: 'restriction ends (other)'
+  name: '33'
 }
 item { 
-  name: '34'
   id: 34
-  display_name: 'go right (mandatory)'
+  name: '34'
 }
 item { 
-  name: '35'
   id: 35
-  display_name: 'go left (mandatory)'
+  name: '35'
 }
 item { 
-  name: '36'
   id: 36
-  display_name: 'go straight (mandatory)'
+  name: '36'
 }
 item { 
-  name: '37'
   id: 37
-  display_name: 'go right or straight (mandatory)'
+  name: '37'
 }
 item { 
-  name: '38'
   id: 38
-  display_name: 'go left or straight (mandatory)'
+  name: '38'
 }
 item { 
-  name: '39'
   id: 39
-  display_name: 'keep right (mandatory)'
+  name: '39'
 }
 item { 
-  name: '40'
   id: 40
-  display_name: 'keep left (mandatory)'
+  name: '40'
 }
 item { 
-  name: '41'
   id: 41
-  display_name: 'roundabout (mandatory)'
+  name: '41'
 }
 item { 
-  name: '42'
   id: 42
-  display_name: 'restriction ends (overtaking) (other)'
+  name: '42'
 }
 item { 
-  name: '43'
   id: 43
-  display_name: 'restriction ends (overtaking (trucks)) (other)'
+  name: '43'
 }
